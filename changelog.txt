@@ -1,0 +1,9 @@
+== Changelog ==
+= 0.2 =
+* Added:    Lazy loading for comments
+* Improved: Setting panel
+* Added: option to change text of load comment button
+* Added: user can change the slug of new page
+
+= 0.1 =
+* Initial version
